@@ -2,7 +2,7 @@
 ## Paper
 
 <b> Probability-Polarized Optimal Transport for Unsupervised Domain Adaptation </b> <br/>
-![alt text](./image_PPOT.png)
+![alt text](./image_PPOT.png) <br/>
 Yan Wang, [Chuan-Xian Ren*](https://scholar.google.com/citations?user=nWsPNkQAAAAJ&hl=zh-CN), Yi-Ming Zhai, [You-Wei Luo](https://scholar.google.com/citations?user=n9xRWGsAAAAJ&hl=zh-CN), [Hong Yan](https://scholar.google.com.hk/citations?user=oKwuCfAAAAAJ&hl=zh-CN)<br/>
 This is the pytorch demo code for Probability-Polarized Optimal Transport for Unsupervised Domain Adaptation, (PPOT) AAAI 2024 | [paper](https://ojs.aaai.org/index.php/AAAI/article/view/29493).<br/>
 
